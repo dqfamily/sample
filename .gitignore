@@ -1,5 +1,5 @@
-CMakePresets.json
 /out
+CMakePresets.json
 
 # Prerequisites
 *.d
@@ -42,3 +42,4 @@ CMakePresets.json
 
 # debug information files
 *.dwo
+CMakePresets.json
